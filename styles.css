@@ -1,2 +1,21 @@
+thead{
+	background-color:lightcoral;
+	color:white;
+	margin:0;
+	padding:0;
+}
+#chest{
+	color:white;
+	background-color:lightblue;
+	
+}
+#sleeve{
+	color:white;
+	background-color:lightgray
+}
+#waist{
+	color:white;
+	background-color:lightpink;
+}
 
 /* Your CSS Code here. */
